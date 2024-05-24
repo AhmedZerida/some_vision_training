@@ -10,8 +10,6 @@ This repository includes the following projects:
    
 2. **Red Color Detection**: Developing a program to detect and track objects with a red color hue in real-time video streams or images.
 
-3. **Virtual Mouse Control**: Creating a virtual mouse control system that allows users to control the mouse cursor using hand gestures or movements detected by a webcam.
-
-4. **Pose Estimation**: Building a pose estimation system to detect and analyze the human pose from images or video streams.
+3. **Pose Estimation**: Building a pose estimation system to detect and analyze the human pose from images or video streams.
 
  
